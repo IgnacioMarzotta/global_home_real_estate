@@ -1,0 +1,50 @@
+body
+{
+    background-image: url("../../../art/cities/BuenosAires/Background.jpg");
+    background-color: #f7e2e2;
+}
+
+h1
+{
+    margin-top: 100px;
+    font-size: 80px;
+    text-align: center;
+    background-image: linear-gradient(to left, cyan, cyan, white, yellow, white, cyan, cyan);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3
+{
+    background-color: #444444;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    padding: 10px;
+}
+
+iframe
+{
+    margin: auto;
+}
+
+.property-card
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.white-background
+{
+    background-color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer
+{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
