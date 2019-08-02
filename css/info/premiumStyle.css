@@ -1,0 +1,53 @@
+body
+{
+    background-color: #494949;
+}
+
+.jumobtron-sized
+{
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.bronze
+{
+    background-image: linear-gradient(to left, brown, #E8400C, #494949 , #E8400C,  brown);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.silver
+{
+    background-image: linear-gradient(to left, black,lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.25px;
+}
+
+.gold
+{
+    background-image: linear-gradient(to left, #EB9700, #FFD200, #EB9700);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.emmerald
+{
+    background-image: linear-gradient(to left, #00EB39, #2AFF00, #B8EB00);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.ruby
+{
+    background-image: linear-gradient(to left,#FF2900, #D42A0B, #FF2900, #D42A0B, #FF2900);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
