@@ -20,7 +20,7 @@ body
 
 .silver
 {
-    background-image: linear-gradient(to left, black,lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black, lightgray, #dddddd, lightgray, black);
+    background-image: linear-gradient(to left, black,#444444, #afafaf, #444444, black, #444444, #afafaf, #444444, black, #444444, #afafaf, #444444, black, #444444, #afafaf, #444444, black, #444444, #afafaf, #444444, black,#444444,#afafaf, #444444, black);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;

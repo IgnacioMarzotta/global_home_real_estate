@@ -99,8 +99,28 @@ button:hover, a:hover
  
 .form-row
 {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.btn-primary
+{
     margin-left: 200px;
-    margin-right: 200px;
+}
+
+.form-group
+{
+    margin: 1%;
+}
+
+.form-check-label
+{
+    margin-left: 200px;
+}
+
+.form-check-input
+{
+    margin-left: 185px;
 }
 
 footer
@@ -128,4 +148,9 @@ footer
 .form-check-input
 {
     margin-left: 185px;
+}
+
+.address-input
+{
+    margin-left: 1%;
 }

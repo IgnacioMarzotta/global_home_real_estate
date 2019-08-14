@@ -47,7 +47,7 @@ h6
     -webkit-text-stroke-width: 0.25px;
 }
 
-.metallic-text 
+.metallic-text
 {
     background-image: linear-gradient(to left, black, black, black, lightgray, white, lightgray, black, black, black);
     -webkit-background-clip: text;
@@ -98,8 +98,21 @@ footer
 {
     content: url(../art/others/LogoTransparente-resized.png);
     position: absolute;
-    top: 80px;
-    left: 20vw;
+    width: 100%;
+    height: auto;
+    top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
     z-index: 1;
 }
  
+.rounded-pill
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.news
+{
+    margin: 2%
+}
