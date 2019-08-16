@@ -1,6 +1,6 @@
 body
 {
-    background-image: url(../../art/others/Background1.jpg);
+    background-image: url("../art/others/Background1.jpg");
 }
 
 img
