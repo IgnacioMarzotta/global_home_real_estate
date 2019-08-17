@@ -10,9 +10,9 @@ body
     margin-right: 200px;
 }
 
-.bronze
+.sapphire
 {
-    background-image: linear-gradient(to left, brown, #E8400C, #494949 , #E8400C,  brown);
+    background-image: linear-gradient(to left, blue, cyan, blue, cyan);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
